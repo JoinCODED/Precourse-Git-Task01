@@ -5,6 +5,12 @@ You are going to learn how to use git and Github by creating a new repo on GitHu
 ## Instructions
 
 
+### 0. Link your Github account to your machine using SSH
+
+- Follow the [instructions from Github](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys#checking-for-existing-ssh-keys) for how to generate and connect an SSH key
+- This key will allow you to communicate with github from your terminal without having to log in over and over again
+- Let your instructor or TA know when you’ve successfully [tested your SSH connection](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/testing-your-ssh-connection).
+
 ### 1. Create a new git repository on Github.com
 
 - Login to your account on [GitHub](https://github.com)
